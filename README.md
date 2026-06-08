@@ -125,9 +125,8 @@ I also learned the importance of website navigation, product presentation, respo
 
 ## GitHub Repository Link
 
-Paste your GitHub repository link here:
+https://github.com/magdiabdalla179/Rwanda-Adventure-Hub/blob/main/README.md
 
-**GitHub Repository:** https://github.com/yourusername/rwanda-adventure-hub
 
 ## Conclusion
 
